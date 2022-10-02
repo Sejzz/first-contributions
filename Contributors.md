@@ -1598,5 +1598,6 @@
 - [Chhavi Rana](https://github.com/chhavi-rana)
 - [Vetrichelvan](https://github.com/pythonhubdev)
 - [Samriddh Prasad](https://github.com/Samriddh2703)
+- [Sejal Kothari](https://github.com/sejalkothari)
 
 <!-- prettier-ignore-end -->
